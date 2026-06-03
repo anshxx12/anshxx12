@@ -1,3 +1,5 @@
+Hii, I am Ansh Bamotra
+"Learning New Ai tools and Generative AI."
 # 💫 About Me:
 name: Ansh Bamotra<br>Open to work<br>Working on ML models and deployment using CI/CD pipeline.<br>location: India 🇮🇳<br>education:<br>  degree: B.E. Computer Science with DevOps<br>  university: Chandigarh University.<br>fun_fact: "C++ is my first love, but I build with JavaScript 😄"<br>email: Sharmaansh900@gmail.com<br>
 
